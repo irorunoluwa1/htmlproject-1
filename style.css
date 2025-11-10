@@ -7,12 +7,15 @@ body{
   border: #e0e507
  solid 5px;
   }
+  h1{
+    margin: 0;
+  }
 .heading{
   color: #e0e507;
   font-size: 50px;
 }
 table,td{
-  font-size: 20px;
+  font-size: 17px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   margin-left: 250px;
   padding-top: 0;
@@ -45,4 +48,5 @@ li::marker{
 .link{
   color: #e0e507;
   font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
