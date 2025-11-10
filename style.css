@@ -11,15 +11,18 @@ body{
   color: #e0e507;
   font-size: 50px;
 }
-tr{
-  font-size: 30px;
+table,td{
+  font-size: 20px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  margin-left: 170px;
+  margin-left: 250px;
   padding-top: 0;
   color: linen;
-  border: 2;
+  border-color:#e0e507;
+  border-left: 1px solid #e0e507;
+  border-right: 1px solid #e0e507;
   
 }
+
 .line{
   border: 2px solid #e9f50557;
 }
@@ -38,4 +41,8 @@ li::marker{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   margin-right: 1opx;
   color: linen;
+}
+.link{
+  color: #e0e507;
+  font-size: 20px;
 }
